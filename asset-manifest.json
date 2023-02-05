@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactPWA/static/css/main.77e724ef.css",
+    "main.js": "/ReactPWA/static/js/main.7eedee0f.js",
+    "static/js/787.ab15d702.chunk.js": "/ReactPWA/static/js/787.ab15d702.chunk.js",
+    "static/media/slider-img.jpg": "/ReactPWA/static/media/slider-img.e7f3a515e49bbc87cdd7.jpg",
+    "static/media/about-img.jpg": "/ReactPWA/static/media/about-img.6c6645acc6548c165ae4.jpg",
+    "static/media/client.png": "/ReactPWA/static/media/client.d194f00f80e34ccdd0b4.png",
+    "static/media/s-1.jpg": "/ReactPWA/static/media/s-1.1085aef8b340a14fad43.jpg",
+    "static/media/s-3.jpg": "/ReactPWA/static/media/s-3.f890979f04860cd6423f.jpg",
+    "static/media/s-2.jpg": "/ReactPWA/static/media/s-2.4038e499266439bcb18d.jpg",
+    "static/media/s-4.jpg": "/ReactPWA/static/media/s-4.c1a5891103da95b9f996.jpg",
+    "index.html": "/ReactPWA/index.html",
+    "main.77e724ef.css.map": "/ReactPWA/static/css/main.77e724ef.css.map",
+    "main.7eedee0f.js.map": "/ReactPWA/static/js/main.7eedee0f.js.map",
+    "787.ab15d702.chunk.js.map": "/ReactPWA/static/js/787.ab15d702.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e724ef.css",
+    "static/js/main.7eedee0f.js"
+  ]
+}

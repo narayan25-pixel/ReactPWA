@@ -1,0 +1,96 @@
+.btn-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+  }
+  .btn-box a {
+    color: #1d1d1d;
+    margin-right: 0.1rem;
+    font-size: 1rem;
+  }
+  
+  .btn-box hr {
+    width: 4rem;
+    height: 1.2px;
+    border: none;
+    background-color: #464646;
+    margin: 0;
+  }
+
+.slider_section .row {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .slider_section .img-box img {
+    width: 100%;
+  }
+  
+  .slider_section .detail-box h1 {
+    font-weight: bold;
+    font-size: 3rem;
+    color: #1a2e35;
+  }
+  
+  .slider_section .detail-box h1 span {
+    color: #ff4f5a;
+  }
+  
+  .slider_section .slider_nav-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+  
+  .slider_section .slider_nav-box .custom_carousel-control {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  
+  .slider_section .carousel-control-prev,
+  .slider_section .carousel-control-next {
+    position: unset;
+    width: 50px;
+    height: 50px;
+    opacity: 1;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: center;
+  }
+  
+  .slider_section .carousel-control-prev {
+    left: 2%;
+    /* background-image: url(./images/left-arrow-black.png); */
+    background-image: url(../../images/left-arrow-black.png);
+  }
+  
+  .slider_section .carousel-control-prev:hover {
+    /* background-image: url(./images/left-arrow.png); */
+    background-image: url(../../images/left-arrow.png);
+  }
+  
+  .slider_section .carousel-control-next {
+    right: 2%;
+    /* background-image: url(./images/right-arrow-black.png); */
+    background-image: url(../../images/right-arrow-black.png);
+  }
+  
+  .slider_section .carousel-control-next:hover {
+    /* background-image: url(./images/right-arrow.png); */
+    background-image: url(../../images/right-arrow.png);
+  }

@@ -1,0 +1,16 @@
+.footer_section {
+    background-color: #ffffff;
+    padding: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+  }
+  
+  .footer_section p {
+    color: #171717;
+    margin: 0;
+    text-align: center;
+  }
+  
+  .footer_section a {
+    color: #171717;
+  }
